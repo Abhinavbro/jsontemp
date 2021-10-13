@@ -1,0 +1,41 @@
+ {
+        "id":1,
+        "gender":"female",
+        "name":"Kanika",
+        "surname":"Singh",
+        "bio": "I am truly delighted to introduce myself. I have pursued bachelors.",
+        "interests":"Listen music, Shopping, Photography",
+        "picture":"https://images.pexels.com/photos/1580271/pexels-photo-1580271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "thumb":"https://images.pexels.com/photos/1580271/pexels-photo-1580271.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "job":"Yes",
+        "age":"22"
+    },
+     {
+        "id":2,
+        "gender":"female",
+"picture":"https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "thumb":"https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+
+    },
+     {
+        "id":3,
+        "gender":"female",
+"picture":"https://images.pexels.com/photos/1382734/pexels-photo-1382734.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "thumb":"https://images.pexels.com/photos/1382734/pexels-photo-1382734.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+
+    },
+     {
+        "id":4,
+        "gender":"female",
+ "picture":"https://images.pexels.com/photos/1580270/pexels-photo-1580270.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "thumb":"https://images.pexels.com/photos/1580270/pexels-photo-1580270.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+ 
+    },
+     {
+        "id":5,
+        "gender":"female",
+"picture":"https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "thumb":"https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+       
+    }
+]
